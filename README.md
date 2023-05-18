@@ -1,6 +1,6 @@
 # Power-BI-Projects
 
-Here projects using Power BI were demonstrated.
+Description of projects
 
 ## 1. HR Analytics
 
