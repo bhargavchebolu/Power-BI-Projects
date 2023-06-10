@@ -22,7 +22,7 @@ v. Building visualization from the gathered data.
 
 ## 2. Retail Superstore Data Analysis
 
-This task is part of the Data Science & Business Analytics Internship at The Sparks Foundation. I did exploratory data analysis using Power BI on the Superstore dataset to bring insights into the business problems and find the weak areas in the superstore to increase the profit. The presentation can be viewed with the youtube link given below.
+This project is part of the Data Science Internship at The Sparks Foundation. I did exploratory data analysis using Power BI on the Superstore dataset to bring insights into the business problems and find the weak areas in the superstore to increase the profit. The presentation can be viewed with the youtube link given below.
 
 Youtube link: https://www.youtube.com/channel/UCm9aJwgCVUbHsWHpphaRJKw
 
@@ -32,4 +32,4 @@ In this project, a dashboard was build to visualize the sales of the company Atl
 
 ## 4. Data Survey Breakdown
 
-In this project, I created a dashboard based on a survey of data professionals around the world. The dashboard rpovides some fascinating insights into the industry, and one key finding is that many people seem to be dissatisfied with their salaries.
+In this project, I created a dashboard based on a survey of data professionals around the world. The dashboard provides some fascinating insights into the industry, and one key finding is that many people seem to be dissatisfied with their salaries.
