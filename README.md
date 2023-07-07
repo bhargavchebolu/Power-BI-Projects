@@ -2,16 +2,16 @@
 
 Description of projects
 
-## 1. HR Analytics
+## 1. HR Data Analytics
 
 ### Problem statement
 
-AtliQ Hardware is a company which supplies computer hardware and peripherals to many of their clients. They have a head office in Delhi in India. The HR generally consume Excel for HR related queries for 3 months (April 2022 to June 2022). In this project, a dashboard was build to know the insights on the presence of the employees.
+AtliQ Hardware is a company which supplies computer hardware and peripherals to many of its clients. They have a head office in Delhi in India. The HR generally consume Excel for HR-related queries for 3 months (April 2022 to June 2022). In this project, a dashboard was built to know insights into the presence of the employees.
 
 ### Steps for creating a dashboard
 i. The data was exported to Power BI.
-ii. Data cleaning is performed using power query editor.
-iii. Measures are created in measure table which are used for calculating the required parameters such as employees presence percent, work fom home percent and sick leave percent and so on.
+ii. Data cleaning is performed using a power query editor.
+iii. Measures are created in the measuring table which is used for calculating the required parameters such as employee's presence per cent, work-from-home per cent and sick leave per cent and so on.
 iv. Parameters in the measure table are calculated using DAX and Power query.
 v. Building visualization from the gathered data.
 
@@ -28,7 +28,7 @@ Youtube link: https://www.youtube.com/channel/UCm9aJwgCVUbHsWHpphaRJKw
 
 ## 3. Sales Insights
 
-In this project, a dashboard was build to visualize the sales of the company AtliQ hardware.
+In this project, a dashboard was built to visualize the sales of the company's AtliQ hardware.
 
 ## 4. Data Survey Breakdown
 
